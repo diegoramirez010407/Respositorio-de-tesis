@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="img/favicon-32x32.png">
+    <title>Sistema de Control de Residencia Profesional</title>
+    <link rel="stylesheet" href="css/alertify.css">
+    <link rel="stylesheet" href="css/alertify.min.css">
+    <link rel="stylesheet" href="css/login.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
+    <meta name="google-site-verification" content="_sGiluLrrvmrrHqoWQFwlPb6u8yGfnnlYD1OauCrIfQ" />
+</head>
+
+<body>
+    <header class="header">
+        <div class="header__container">
+
+           
+           
+            
+            <div class="header__toggle">
+                <i class="bx bx-menu" id="header-toggle"></i>
+            </div>
+        </div>
+    </header>
+    <div class="nav" id="navbar">
+        <nav class="nav__container">
+            <div>
+                <a href="#" class="nav__link nav__logo">
+                    <i class='bx bxs-school nav__icon'></i>
+                    <span class="nav__logo-name">TESSFP</span>
+                </a>
+                <div class="nav__list">
+                    <div class="nav__items">
+                        <a href="#" class="nav__link">
+                            <i class="bx bx-table nav__icon"></i>
+                            <span class="nav__name">Nosotros</span>
+                        </a>
+                        <a href="#" class="nav__link">
+                            <i class="bx bx-book-open nav__icon"></i>
+                            <span class="nav__name">Carreras</span>
+                        </a>
+                        <a href="#" class="nav__link">
+                            <i class="bx bxs-contact nav__icon"></i>
+                            <span class="nav__name">Contacto</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <section>
+        <div class="container">
+            <div class="forms__container">
+                <div class="signin">
+                    <form action="pages/php/login.php" class="signin__form" method="post">
+                        <h1 class="title">Iniciar sesión</h1>
+                        <div class="form__input">
+                            <i class='bx bxs-user-pin' ></i>
+                            <input type="input" name="carrera" id="Carrera" placeholder="USUARIO" />
+                        </div>
+                        <div class="form__input">
+                            <i class='bx bxs-lock' ></i>
+                            <input type="password" name="no_control" id="Password" placeholder="CONTRASEÑA" />
+                        </div>
+                        <input type="submit" value="Ingresar" id="Login" class="btn solid" />
+                    </form>
+                </div>
+            </div>
+
+            <div class="panel__container">
+                <div class="panel left__panel">
+                    <div class="content">
+                        <h3>Bienvenido</h3>
+                        <p>
+                            Al Repositorio de Trabajos Realiados Por Alumnos De La Carrera Ingeniera Informatica Del Tecnologio De Estudios
+                            Superiores de San Felipe del Progreso
+                        </p>
+                        <img src="img/tessfp.jpg" class="img" alt="" />
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- <div>
+        <footer>
+            <p>Todos los derechos reservados. Tecnológico de Estudios Superiores de San Felipe del Progreso</p>
+        </footer>
+    </div> -->
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="js/alertify.js"></script>
+<script src="js/alertify.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/logica.js"></script>
+
+</html>

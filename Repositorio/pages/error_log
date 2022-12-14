@@ -1,0 +1,26 @@
+[01-May-2022 19:27:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'opcion' in 'where clause' in /home/bystessf/saed.bystessfp.com/pages/administracion.php:119
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/administracion.php(119): PDO->query('SELECT estado F...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 119
+[01-May-2022 19:28:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'opcion' in 'where clause' in /home/bystessf/saed.bystessfp.com/pages/administracion.php:119
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/administracion.php(119): PDO->query('SELECT estado F...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 119
+[01-May-2022 19:29:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'opcion' in 'where clause' in /home/bystessf/saed.bystessfp.com/pages/administracion.php:119
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/administracion.php(119): PDO->query('SELECT estado F...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 119
+[01-May-2022 19:38:31 UTC] PHP Notice:  Undefined variable: cuestionario_estado in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 195
+[01-May-2022 19:38:41 UTC] PHP Notice:  Undefined variable: cuestionario_estado in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 195
+[01-May-2022 19:39:52 UTC] PHP Notice:  Undefined variable: cuestionario_estado in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 195
+[04-May-2022 23:48:55 UTC] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting ',' or ';' in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 59
+[04-May-2022 23:48:58 UTC] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting ',' or ';' in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 59
+[04-May-2022 23:48:59 UTC] PHP Parse error:  syntax error, unexpected 'de' (T_STRING), expecting ',' or ';' in /home/bystessf/saed.bystessfp.com/pages/administracion.php on line 59
+[28-Jun-2022 02:54:27 UTC] PHP Notice:  Undefined variable: output in /home/bystessf/saed.bystessfp.com/pages/backup.php on line 14
+[28-Jun-2022 02:54:27 UTC] PHP Warning:  system() has been disabled for security reasons in /home/bystessf/saed.bystessfp.com/pages/backup.php on line 14
+[28-Jun-2022 02:54:27 UTC] PHP Warning:  unlink(bystessf_evaluacion_docente_20220628-025427.sql): No such file or directory in /home/bystessf/saed.bystessfp.com/pages/backup.php on line 24
+[28-Jun-2022 02:59:28 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/bystessf/saed.bystessfp.com/pages/backup.php on line 14
+[28-Jun-2022 02:59:28 UTC] PHP Warning:  unlink(bystessf_evaluacion_docente_20220628-025928.sql): No such file or directory in /home/bystessf/saed.bystessfp.com/pages/backup.php on line 24

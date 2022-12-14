@@ -1,0 +1,727 @@
+[15-Mar-2022 18:38:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bystessf_evaluacion_docente.vista_faltantes' doesn't exist in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:87
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php(87): PDOStatement->execute()
+#1 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get()
+#2 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 87
+[08-Apr-2022 17:04:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bystessf_evaluacion_docente.vista_faltantes' doesn't exist in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:87
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php(87): PDOStatement->execute()
+#1 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get()
+#2 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 87
+[08-Apr-2022 20:43:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[08-Apr-2022 20:44:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[08-Apr-2022 21:06:51 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[19-Apr-2022 02:01:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 264
+[04-May-2022 18:46:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:11 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:20 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:23 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:25 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:28 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:30 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:32 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:34 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:36 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:37 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:41 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:51 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:46:54 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:49:54 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:49:57 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:50:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:50:28 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:50:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:50:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:37 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:41 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:45 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:51 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:56 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:51:58 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:00 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:02 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:03 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:05 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:07 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:20 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:22 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:24 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:27 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:37 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:40 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:50 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:52 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:54 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:56 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:58 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:52:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:01 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:03 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:05 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:15 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:23 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:24 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:28 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:30 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:37 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:41 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:44 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:56 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:53:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:01 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:03 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:04 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:20 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:22 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:24 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:27 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:37 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:43 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:44 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:46 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:48 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:51 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:57 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:54:58 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:00 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:02 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:04 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:05 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:07 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:09 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:11 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:17 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:20 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:22 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:24 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:28 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:30 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:41 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:44 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:46 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:48 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:50 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:57 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:55:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:00 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:02 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:04 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:09 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:22 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:30 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:32 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:36 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:37 UTC] PHP Notice:  Undefined offset: 3 in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 32
+[04-May-2022 18:56:40 UTC] PHP Notice:  Undefined offset: 3 in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 32
+[04-May-2022 18:56:43 UTC] PHP Notice:  Undefined offset: 3 in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 32
+[04-May-2022 18:56:50 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:52 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:54 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:58 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:56:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:07 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:09 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:14 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:15 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:17 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:19 UTC] PHP Notice:  Undefined offset: 3 in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 32
+[04-May-2022 18:57:23 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:25 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:27 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:31 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:33 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:35 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:40 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:43 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:45 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:51 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:52 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:54 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:56 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:57 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:57:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:01 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:03 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:05 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:10 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:12 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:13 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:15 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:17 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:19 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:23 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:25 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:28 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:30 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:32 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:34 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:36 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:38 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:41 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:44 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:46 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:52 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[04-May-2022 18:58:57 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 280
+[13-May-2022 17:50:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:39:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:39:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bystessf_evaluacion_docente.faltantes' doesn't exist in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:25
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(25): PDO->prepare('CREATE TABLE tm...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 25
+[16-May-2022 16:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 16:41:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 22:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 22:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[16-May-2022 22:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 17:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 17:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 18:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 19:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 21:08:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 21:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[17-May-2022 21:47:53 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 281
+[17-May-2022 21:48:02 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 281
+[18-May-2022 21:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 21:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 21:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 22:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 22:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 22:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 22:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[18-May-2022 22:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-May-2022 17:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-May-2022 17:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-May-2022 17:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-May-2022 17:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-May-2022 19:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[20-May-2022 16:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[20-May-2022 16:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[20-May-2022 16:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[20-May-2022 16:01:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bystessf_evaluacion_docente.faltantes' doesn't exist in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:25
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(25): PDO->prepare('CREATE TABLE tm...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 25
+[20-May-2022 16:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[20-May-2022 16:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 14:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 14:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 14:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 15:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 15:38:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:8
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(8): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 8
+[25-May-2022 15:38:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bystessf_evaluacion_docente.faltantes' doesn't exist in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:25
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 25
+[25-May-2022 22:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[25-May-2022 22:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[26-May-2022 17:19:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[30-May-2022 14:42:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 281
+[19-Jun-2022 23:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-Jun-2022 23:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[19-Jun-2022 23:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[28-Jun-2022 18:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[28-Jun-2022 18:11:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jun-2022 19:37:43 UTC] PHP Notice:  Undefined variable: nom_administardor in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 102
+[29-Jun-2022 19:39:04 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 385
+[29-Jun-2022 19:54:11 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 390
+[29-Jun-2022 20:59:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[26-Jul-2022 14:30:13 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[26-Jul-2022 14:30:29 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:06:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:11:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:12:03 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:13:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '31' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:163
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(163): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 163
+[29-Jul-2022 21:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:16:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:16:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom_alumno' in 'field list' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:28
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(28): PDO->prepare('CREATE VIEW vis...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 28
+[29-Jul-2022 21:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:17:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '31' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:131
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(131): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 131
+[29-Jul-2022 21:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:20:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideAlumnos.php(3): TableData->get('vista_alumnos', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 21:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom_alumno' in 'field list' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:28
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(28): PDO->prepare('CREATE VIEW vis...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 28
+[29-Jul-2022 21:34:59 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:35:56 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:40:00 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:40:45 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 21:41:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 22:00:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 22:01:47 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[29-Jul-2022 22:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:34:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:34:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php:94
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltantes.php(3): TableData->get('vista_faltantes', 'no_control', Array)
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serverside.php on line 94
+[29-Jul-2022 22:35:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom_alumno' in 'field list' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php:28
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php(28): PDO->prepare('CREATE VIEW vis...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideFaltan.php on line 28
+[07-Oct-2022 19:30:16 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 19:31:17 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 19:33:38 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 20:51:39 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 21:01:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 21:08:21 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 22:42:42 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[07-Oct-2022 22:47:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[18-Oct-2022 15:09:49 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[18-Oct-2022 15:31:07 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[18-Oct-2022 15:33:26 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 15:20:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clv_usuario' in 'order clause' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:266
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(266): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 266
+[19-Oct-2022 15:21:36 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 15:36:13 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 15:37:48 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 19:58:46 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 21:18:32 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 21:21:05 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 21:39:17 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 21:42:32 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 22:04:18 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[19-Oct-2022 23:00:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[20-Oct-2022 17:51:08 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[20-Oct-2022 18:01:55 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[20-Oct-2022 18:09:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2022310943' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:263
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(263): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[20-Oct-2022 18:09:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2022310279' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:263
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(263): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[20-Oct-2022 18:09:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clv_usuario' in 'order clause' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:266
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(266): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 266
+[20-Oct-2022 18:10:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2022310943' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:263
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(263): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[20-Oct-2022 18:10:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2022310943' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:263
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(263): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[20-Oct-2022 18:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clv_usuario' in 'order clause' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:266
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(266): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 266
+[20-Oct-2022 18:14:50 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[20-Oct-2022 18:16:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '310943' for key 'PRIMARY' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:263
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(263): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 263
+[20-Oct-2022 18:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clv_usuario' in 'order clause' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:266
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(266): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 266
+[20-Oct-2022 18:37:06 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
+[20-Oct-2022 18:43:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clv_usuario' in 'order clause' in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php:266
+Stack trace:
+#0 /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php(266): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 266
+[20-Oct-2022 18:43:45 UTC] PHP Notice:  Undefined variable: data in /home/bystessf/saed.bystessfp.com/pages/serverside/serversideServidor.php on line 400
